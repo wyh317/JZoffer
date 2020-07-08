@@ -8,3 +8,6 @@
 * [面试题6: 从头到尾打印链表](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题6%EF%BC%9A从头到尾打印链表.md)
 * [面试题7: 重建二叉树](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题7%EF%BC%9A重建二叉树.md)
 * [面试题8: 二叉树的下一个节点](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题8%EF%BC%9A二叉树的下一个节点.md)
+* [面试题9：用两个栈实现队列](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题9%EF%BC%9A用两个栈实现队列.md)
+* [面试题10：斐波那契数列](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题9%EF%BC%9A用两个栈实现队列.md)
+* [面试题11：旋转数组的最小数字](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题11%EF%BC%9A旋转数组的最小数字.md)
