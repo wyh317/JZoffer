@@ -11,3 +11,5 @@
 * [面试题9：用两个栈实现队列](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题9%EF%BC%9A用两个栈实现队列.md)
 * [面试题10：斐波那契数列](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题9%EF%BC%9A用两个栈实现队列.md)
 * [面试题11：旋转数组的最小数字](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题11%EF%BC%9A旋转数组的最小数字.md)
+* [面试题12：矩阵中的路径](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题12%EF%BC%9A矩阵中的路径.md)
+* [面试题13：机器人的运动范围](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题13%EF%BC%9A机器人的运动范围.md)
