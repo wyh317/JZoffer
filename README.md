@@ -19,3 +19,5 @@
 ## 第三章
 * [面试题16：数值的整数次方](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题16%EF%BC%9A数值的整数次方.md)
 * [面试题17：打印从1到最大的n位数](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题17%EF%BC%9A打印从1到最大的n位数.md)
+* [面试题18：删除链表的节点](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题18%EF%BC%9A删除链表的节点.md)
+* [面试题22：链表中倒数第k个节点](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题22%EF%BC%9A链表中倒数第k个节点.md)
