@@ -1,5 +1,5 @@
 # 剑指offer
-记录剑指offer中的算法题目和其Java题解
+记录剑指offer中的算法题目和其Java题解，持续更新
 
 ## 第二章
 * [面试题3: 数组中的重复数字](https://github.com/wyh317/JZoffer/blob/master/第二章/面试题3.数组中的重复数字.md)
