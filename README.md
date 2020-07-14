@@ -21,5 +21,8 @@
 * [面试题17：打印从1到最大的n位数](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题17%EF%BC%9A打印从1到最大的n位数.md)
 * [面试题18：删除链表的节点](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题18%EF%BC%9A删除链表的节点.md)
 * [面试题20：表示数值的字符串](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题20%EF%BC%9A表示数值的字符串.md)
+* [面试题21：调整数组顺序使奇数位于偶数前面](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题21%EF%BC%9A调整数组顺序使奇数位于偶数前面.md)
 * [面试题22：链表中倒数第k个节点](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题22%EF%BC%9A链表中倒数第k个节点.md)
+* [面试题23：链表中环的入口节点](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题23%EF%BC%9A链表中环的入口节点.md)
 * [面试题24：反转链表](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题24%EF%BC%9A反转链表.md)
+* [面试题25：合并两个排序的链表](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题25%EF%BC%9A合并两个排序的链表.md)
