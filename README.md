@@ -26,3 +26,6 @@
 * [面试题23：链表中环的入口节点](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题23%EF%BC%9A链表中环的入口节点.md)
 * [面试题24：反转链表](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题24%EF%BC%9A反转链表.md)
 * [面试题25：合并两个排序的链表](https://github.com/wyh317/JZoffer/blob/master/第三章/面试题25%EF%BC%9A合并两个排序的链表.md)
+* [面试题26：树的子结构](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9826%EF%BC%9A%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
+* [面试题27：二叉树的镜像](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9827%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
+* [面试题28：对称的二叉树](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9828%EF%BC%9A%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md)
