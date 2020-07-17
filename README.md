@@ -33,3 +33,5 @@
 ## 第四章
 * [面试题29：顺时针打印矩阵](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9829%EF%BC%9A%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 * [面试题30：包含min函数的栈](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9830%EF%BC%9A%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)
+* [面试题31：栈的压入、弹出序列](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9831%EF%BC%9A%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
+* [面试题32：从上到下打印二叉树](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9832%EF%BC%9A%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
