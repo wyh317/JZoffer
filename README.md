@@ -37,3 +37,5 @@
 * [面试题32：从上到下打印二叉树](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9832%EF%BC%9A%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 * [面试题33：二叉搜索树的后序遍历序列](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9833%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
 * [面试题34：二叉树中和为某一值的路径](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9834%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md)
+* [面试题35：复杂链表的复制](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9835%EF%BC%9A%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md)
+* [面试题36：二叉搜索树与双向链表](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9836%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
