@@ -43,3 +43,5 @@
 ## 第五章
 * [面试题39：数组中出现次数超过一半的数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9839%EF%BC%9A%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * [面试题40：最小的K个数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9840%EF%BC%9A%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md)
+* [面试题41：数据流中的中位数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9841%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md)
+* [面试题42：连续子数组的最大和](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9842%EF%BC%9A%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
