@@ -49,3 +49,5 @@
 * [面试题44：数字序列中某一位的数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9844%EF%BC%9A%E6%95%B0%E5%AD%97%E5%BA%8F%E5%88%97%E4%B8%AD%E6%9F%90%E4%B8%80%E4%BD%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * [面试题45：把数组排成最小的数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9845%EF%BC%9A%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md)
 * [面试题46：把数字翻译成字符串](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9846%EF%BC%9A%E6%8A%8A%E6%95%B0%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* [面试题47：礼物的最大价值](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9847%EF%BC%9A%E7%A4%BC%E7%89%A9%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BB%B7%E5%80%BC.md)
+* [面试题48：最长不含重复字符的子字符串](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9848%EF%BC%9A%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
