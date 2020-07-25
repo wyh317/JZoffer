@@ -51,3 +51,5 @@
 * [面试题46：把数字翻译成字符串](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9846%EF%BC%9A%E6%8A%8A%E6%95%B0%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * [面试题47：礼物的最大价值](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9847%EF%BC%9A%E7%A4%BC%E7%89%A9%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BB%B7%E5%80%BC.md)
 * [面试题48：最长不含重复字符的子字符串](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9848%EF%BC%9A%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* [面试题49：丑数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9849%EF%BC%9A%E4%B8%91%E6%95%B0.md)
+* [面试题50：第一个只出现一次的字符](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9850%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md)
