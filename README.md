@@ -55,3 +55,8 @@
 * [面试题50：第一个只出现一次的字符](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9850%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md)
 * [面试题51：数组中的逆序对](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9851%EF%BC%9A%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md)
 * [面试题52：两个链表的第一个公共节点](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9852%EF%BC%9A%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9.md)
+
+## 第六章
+* [面试题53：在排序数组中查找数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9853%EF%BC%9A%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97.md)
+* [面试题54：二叉搜索树的第k大节点](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9854%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.md)
+* [面试题55：二叉树的深度](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9855%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
