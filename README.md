@@ -60,3 +60,5 @@
 * [面试题53：在排序数组中查找数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9853%EF%BC%9A%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97.md)
 * [面试题54：二叉搜索树的第k大节点](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9854%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.md)
 * [面试题55：二叉树的深度](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9855%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
+* [面试题56：数组中数字出现的次数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9856%EF%BC%9A%E6%95%B0%E7%BB%84%E4%B8%AD%E6%95%B0%E5%AD%97%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md)
+* [面试题57：和为s的数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9857%EF%BC%9A%E5%92%8C%E4%B8%BAs%E7%9A%84%E6%95%B0%E5%AD%97.md)
