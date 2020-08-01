@@ -63,5 +63,6 @@
 * [面试题56：数组中数字出现的次数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9856%EF%BC%9A%E6%95%B0%E7%BB%84%E4%B8%AD%E6%95%B0%E5%AD%97%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md)
 * [面试题57：和为s的数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9857%EF%BC%9A%E5%92%8C%E4%B8%BAs%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * [面试题58：反转字符串](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9858%EF%BC%9A%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* [面试题59：队列的最大值](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9859%EF%BC%9A%E9%98%9F%E5%88%97%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 * [面试题60：n个骰子的点数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9860%EF%BC%9An%E4%B8%AA%E9%AA%B0%E5%AD%90%E7%9A%84%E7%82%B9%E6%95%B0.md)
 * [面试题63：股票的最大利润](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9863%EF%BC%9A%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E5%A4%A7%E5%88%A9%E6%B6%A6.md)
