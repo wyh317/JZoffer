@@ -40,7 +40,7 @@
 * [面试题35：复杂链表的复制](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9835%EF%BC%9A%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md)
 * [面试题36：二叉搜索树与双向链表](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9836%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
 * [面试题37：序列化二叉树](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9837%EF%BC%9A%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.md)
-
+* [面试题38：字符串的排列](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%9B%9B%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9838%EF%BC%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
 ## 第五章
 * [面试题39：数组中出现次数超过一半的数字](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9839%EF%BC%9A%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * [面试题40：最小的K个数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9840%EF%BC%9A%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md)
