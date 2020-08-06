@@ -73,3 +73,5 @@
 * [面试题64：求1+2+...+n](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9864%EF%BC%9A%E6%B1%821%2B2%2B...%2Bn.md)
 * [面试题65：不用加减乘除做加法](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9865%EF%BC%9A%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md)
 * [面试题66：构建乘积数组](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9866%EF%BC%9A%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
+* [面试题67：把字符串转换成整数](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9867%EF%BC%9A%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.md)
+* [面试题68： 二叉树的最近公共祖先](https://github.com/wyh317/JZoffer/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E9%9D%A2%E8%AF%95%E9%A2%9868%EF%BC%9A%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
